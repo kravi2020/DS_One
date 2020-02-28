@@ -65,5 +65,6 @@
     <Build Include="dbo\Tables\Blocking_Sessions.sql" />
     <Build Include="dbo\Tables\Log_Shrink_Stats.sql" />
     <Build Include="dbo\Tables\SQLTest.sql" />
+    <Build Include="usp_Get_Version.sql" />
   </ItemGroup>
 </Project>
