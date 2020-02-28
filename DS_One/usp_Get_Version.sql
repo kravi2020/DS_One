@@ -3,4 +3,5 @@
 AS
 
 SELECT @@SERVERNAME [ServerName],
-	@@version [Version]
+	@@version [Version],
+	@@SERVICENAME
