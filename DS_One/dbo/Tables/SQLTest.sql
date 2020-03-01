@@ -1,4 +1,5 @@
 ﻿CREATE TABLE [dbo].[SQLTest] (
-    [id] INT NULL
+    [id] INT NULL,
+    [Name] varchar(20) null
 );
 
