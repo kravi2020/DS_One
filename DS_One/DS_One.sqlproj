@@ -69,4 +69,7 @@
     <Build Include="dbo\Tables\SQLTest.sql" />
     <Build Include="usp_Get_Version.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="DS_One.publish.xml" />
+  </ItemGroup>
 </Project>
